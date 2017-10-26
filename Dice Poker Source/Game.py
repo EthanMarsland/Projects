@@ -3,7 +3,7 @@
 # This code is for presentation purposes only
 
 # Owner: Ethan Marsland
-# Email: emarsland1214@gmail.com
+# Email: ethan.marsland17@gmail.com
 
 import pickle
 from enum import Enum

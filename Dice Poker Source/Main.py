@@ -3,7 +3,7 @@
 # This code is for presentation purposes only
 
 # Owner: Ethan Marsland
-# Email: emarsland1214@gmail.com
+# Email: ethan.marsland17@gmail.com
 
 #! /usr/bin/env python3
 import random, pickle
