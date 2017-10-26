@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x86
+/SUBSYSTEM:WINDOWS
+"D:\2017\Assessment\CGS_10.5.2017\Demo Project Source\Game\DEMO\DemoGame\Plugins\TCPConnectionPlugin\Intermediate\Build\Win32\UE4\Development\TCPConnectionPlugin\Module.TCPConnectionPlugin.cpp.obj"
+"D:\2017\Assessment\CGS_10.5.2017\Demo Project Source\Game\DEMO\DemoGame\Plugins\TCPConnectionPlugin\Intermediate\Build\Win32\UE4\Development\TCPConnectionPlugin\TCPConnectionPlugin.generated.cpp.obj"
+/OUT:"D:\2017\Assessment\CGS_10.5.2017\Demo Project Source\Game\DEMO\DemoGame\Plugins\TCPConnectionPlugin\Binaries\Win32\UE4-TCPConnectionPlugin.lib"
