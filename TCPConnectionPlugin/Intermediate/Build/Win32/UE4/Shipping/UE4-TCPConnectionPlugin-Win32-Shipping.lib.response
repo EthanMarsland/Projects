@@ -1,8 +1,0 @@
-/NOLOGO
-/errorReport:prompt
-/MACHINE:x86
-/SUBSYSTEM:WINDOWS
-/LTCG
-"I:\2017\Assessment\CGS_10.5.2017\Demo Project Source\Game\DEMO\DemoGame\Plugins\TCPConnectionPlugin\Intermediate\Build\Win32\UE4\Shipping\TCPConnectionPlugin\Module.TCPConnectionPlugin.cpp.obj"
-"I:\2017\Assessment\CGS_10.5.2017\Demo Project Source\Game\DEMO\DemoGame\Plugins\TCPConnectionPlugin\Intermediate\Build\Win32\UE4\Shipping\TCPConnectionPlugin\TCPConnectionPlugin.generated.cpp.obj"
-/OUT:"I:\2017\Assessment\CGS_10.5.2017\Demo Project Source\Game\DEMO\DemoGame\Plugins\TCPConnectionPlugin\Binaries\Win32\UE4-TCPConnectionPlugin-Win32-Shipping.lib"
